@@ -1,0 +1,19 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '11'
+
+
+
+target 'LifeAgency' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for LifeAgency
+  pod 'Firebase/Core'
+  pod 'Firebase/Messaging'
+
+  target 'LifeAgencyTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

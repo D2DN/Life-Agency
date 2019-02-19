@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1079081491965",
+    "firebase_url": "https://lifeagency-5da44.firebaseio.com",
+    "project_id": "lifeagency-5da44",
+    "storage_bucket": "lifeagency-5da44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079081491965:android:03e42371d78745d2",
+        "android_client_info": {
+          "package_name": "com.lifeagency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079081491965-kc9im0gs7o3p2ic6g6lhaieuaviqc82m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lifeagency",
+            "certificate_hash": "c6a8ca19bd52ea028dbf5ee00e2579b3789b0849"
+          }
+        },
+        {
+          "client_id": "1079081491965-our4qn7ntkcbrspji3f49jfop1or8nve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2df_iUOgYyE4RgBqiPonSgQUCEz7-lh8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079081491965-9jl1ffbi9vsm4jnnnjflfli170mkkmbj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.siicanada.lifeagency",
+                "app_store_id": "1292041043"
+              }
+            },
+            {
+              "client_id": "1079081491965-our4qn7ntkcbrspji3f49jfop1or8nve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

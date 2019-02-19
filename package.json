@@ -1,0 +1,40 @@
+{
+  "name": "LifeAgency",
+  "version": "1.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "firebase": "^4.5.0",
+    "moment": "^2.19.2",
+    "prop-types": "^15.6.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "0.48.0",
+    "react-native-azure-ad": "^0.2.4",
+    "react-native-datepicker": "^1.6.0",
+    "react-native-elements": "^0.16.0",
+    "react-native-fcm": "^8.0.0",
+    "react-native-rest-client": "^0.1.1",
+    "react-native-root-toast": "^1.2.0",
+    "react-native-scrollable-tab-view": "^0.6.7",
+    "react-native-vector-icons": "^4.3.0",
+    "react-navigation": "^1.0.0-beta.11",
+    "react-timestamp": "^4.3.0"
+  },
+  "devDependencies": {
+    "babel-jest": "20.0.3",
+    "babel-preset-react-native": "2.1.0",
+    "jest": "20.0.4",
+    "react-test-renderer": "16.0.0-alpha.12"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "assets/fonts"
+    ]
+  }
+}
